@@ -1,4 +1,4 @@
-//Importar express - COMMONJS
+//Importar express - ES Modules (ESM)
 import express from 'express';
 
 //Inicializar express

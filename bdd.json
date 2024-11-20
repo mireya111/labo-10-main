@@ -4,7 +4,7 @@
         "id":1,
         "name":"Mateo",
         "lastName":"Torres",
-        "age":30,
+        "age":"30",
         "city":"Quito",
         "email":"mt@tm.com"
     },
@@ -12,7 +12,7 @@
         "id":2,
         "name":"Mireya",
         "lastName":"García",
-        "age":25,
+        "age":"25",
         "email":"mg@tm.com"
     }
 ],

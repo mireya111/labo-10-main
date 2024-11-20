@@ -38,7 +38,7 @@ app.get('/',(req, res)=>{
         },
         {
             id:5,
-            nombre:"Matias",
+            nombre:"Mathias",
             apellido:"Terán",
             edad:21,
             carrera:"Desarrollo de Software"
